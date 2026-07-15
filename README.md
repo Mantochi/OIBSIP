@@ -1,20 +1,23 @@
 # OIBSIP
-My Web Development &amp; Designing Internship Projects at Oasis Infobyte.
 
-Welcome to my Oasis Infobyte Internship repository.
+## Oasis Infobyte Internship Projects
 
-This repository contains all the projects completed during my **Web Development & Designing Internship**.
+This repository contains all the projects I complete during my **Web Development & Designing Internship** at Oasis Infobyte.
 
-## Projects
+### 📂 Projects
 
-### Level 1
+- 🚀 WebDev-L1-LandingPage (In Progress)
+- 💼 WebDev-L1-PersonalPortfolio (Coming Soon)
+- 🌡️ WebDev-L1-TemperatureConverter (Coming Soon)
 
-- 🚀 DevLaunch Landing Page
-- 💼 Personal Portfolio
-- 🌡️ Temperature Converter
+---
 
-Each project includes:
-- Source code
-- README documentation
-- Screenshots
-- Demo walkthrough
+### Tech Stack
+
+- HTML5
+- Tailwind CSS
+- JavaScript
+- React (Portfolio Project)
+- Git & GitHub
+
+Thank you for visiting this repository!
